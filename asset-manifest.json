@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/read-manga-bastard/static/css/main.c56c8681.css",
+    "main.js": "/read-manga-bastard/static/js/main.b71406a4.js",
+    "static/js/787.28776789.chunk.js": "/read-manga-bastard/static/js/787.28776789.chunk.js",
+    "static/media/settings_icon.png": "/read-manga-bastard/static/media/settings_icon.e13b8b8c2da0541b6779.png",
+    "index.html": "/read-manga-bastard/index.html",
+    "main.c56c8681.css.map": "/read-manga-bastard/static/css/main.c56c8681.css.map",
+    "main.b71406a4.js.map": "/read-manga-bastard/static/js/main.b71406a4.js.map",
+    "787.28776789.chunk.js.map": "/read-manga-bastard/static/js/787.28776789.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c56c8681.css",
+    "static/js/main.b71406a4.js"
+  ]
+}
