@@ -1,0 +1,14 @@
+.img{
+    width: 50%;
+}
+.wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+@media (max-width: 900px) {
+    .img{
+        width: 100%;
+    }
+}
